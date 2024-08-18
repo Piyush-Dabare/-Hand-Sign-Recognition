@@ -13,3 +13,5 @@ To solve this problem, we can use a custom Convolution Neural Networks (CNN) mod
 gestures. Sign language recognition is a collaborative research field that includes natural language processing, 
 computer vision, pattern matching, and linguistics. Its goal is to compile various methods and algorithms in 
 order to identify already created signs and perceive their meaning.
+
+Dataset Link : - https://drive.google.com/drive/folders/16gSisLmsIc-YA3tIPE1Rz8FTZGr4uKwd?usp=sharing
